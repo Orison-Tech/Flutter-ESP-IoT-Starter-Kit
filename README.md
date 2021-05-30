@@ -52,5 +52,6 @@ Watch the Flutter app and the ESP IoT prototype device in action on YouTube.
 ## Links
 
 - [Official Project Site](https://orison.biz/projects/flutter-esp8266-iot-starter-kit/)
-- [Buy the Source Code at CodeCanyon](https://codecanyon.net/item/flutter-esp8266-iot-starter-kit/29599018)
+- [Product Documentation](https://orison.biz/docs/esp-iot-starter-kit-documentation/)
+- [Buy the Source Code on CodeCanyon](https://codecanyon.net/item/flutter-esp8266-iot-starter-kit/29599018)
 - [Download Demo App (APK)](https://orison.biz/wp-content/uploads/2021/01/Flutter-ESP8266-IoT-Starter-Kit.zip)
