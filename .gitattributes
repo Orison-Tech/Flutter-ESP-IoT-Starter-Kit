@@ -1,0 +1,14 @@
+* text=auto eol=lf
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.png binary
+*.jpg binary
+*.bin binary
+*.zip binary
+*.apk binary
+*.afdesign binary
+*.afphoto binary
+*.fzz binary
+*.docx binary
+*.pptx binary
+*.xlsx binary
